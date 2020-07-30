@@ -1,5 +1,5 @@
-# Yates_algorithm
-
+# Yates_algorithmn=
+<div align="center">
 | データ|1*|
 |:---|----|
 | (1)| 40|
@@ -35,3 +35,4 @@
 | acd | 2100 |
 | bcd | 1700 |
 | abcd| 1670|
+</div>

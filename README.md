@@ -11,7 +11,7 @@
 
 <table>
 <tr>
-<th>Data</th><th>Step1</th><th>Step2</th><th>Step4</th>
+<th>Data</th><th>Step1</th><th>Step2</th><th>Step3</th>
 </tr>
 <tr>
 <td><img src="https://latex.codecogs.com/gif.latex?y_{(1)}"></td>
